@@ -14,7 +14,7 @@ public class TTTButton extends JButton implements ActionListener{
 	 */
 	private static final long serialVersionUID = 5345041896402092496L;
 	
-	//initializes all necessary variables
+	//initializes all necessary variables and objects
 	static boolean winner = false;
 	static int turn = 0;
 	ImageIcon iconX;

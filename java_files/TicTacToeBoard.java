@@ -9,7 +9,7 @@ public class TicTacToeBoard extends JFrame{
 	 */
 	private static final long serialVersionUID = 7233404568688492988L;
 	
-	//initializes all necessary variables
+	//initializes all necessary variables and objects
 	int w = 600;
 	int h = 600;
 	int turn = 0;
